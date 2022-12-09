@@ -17,9 +17,15 @@
 ![alexehouston's github stats](https://github-readme-stats.vercel.app/api?username=alexehouston&count_private=true&include_all_commits=true&theme=chartreuse-dark)
 
 ## Connect with me:
-[<img align="left" alt="www.alexehouston.com" width="30x" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alexehouston | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://alexehouston.com">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/www.png" alt="Twitter" title="Twitter" width="35" height="35" />
+</a>
+<a href="https://twitter.com/alexehouston">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="35" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/alexehouston">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="35" height="35" />
+</a>
 <br />
 
 [website]: https://alexehouston.com
