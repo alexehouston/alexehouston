@@ -7,9 +7,9 @@
 <br />
 🌱 I’m currently learning - MERN-Stack web applications.
 <br />
-⚡ Fun fact - I'm also a hair stlylist!
+👽 Fun fact - I'm also a hair stlylist!
 <br />
-Click <a href="https://alexehouston.github.io/portfolio/">here</a> to view my dev portfolio!
+💻 Click <a href="https://alexehouston.github.io/portfolio/">here</a> to view my dev portfolio!
 
 ## Technical Skills
 <img src="https://skillicons.dev/icons?i=js,py,html,css,nodejs,express,react,django,mongodb,postgres,aws,heroku,vscode,ps,ai" />
