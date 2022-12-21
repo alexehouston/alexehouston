@@ -24,9 +24,16 @@
 </div>
 
 <br /><br />
+
 <div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=alexehouston&count_private=true&include_all_commits=true&theme=chartreuse-dark" alt="alex-stats" />
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexehouston&layout=compact&theme=chartreuse-dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexehouston&theme=chartreuse-dark&show_icons=true" />
+  </a>
+ </div>
 
 [website]: https://alexehouston.com](https://alexehouston.github.io/portfolio/
 [twitter]: https://twitter.com/alexehouston
