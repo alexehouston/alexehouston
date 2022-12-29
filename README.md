@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="35" height="35" />
   </a>
   <br/><br/>
-  <a href="https://aeh-portfolio.netlify.app/">Check out my portfolio!</a>
+  <a href="https://aeh-portfolio.netlify.app/" target="_blank">Check out my portfolio!</a>
 </div>
 
 <h1 align=center>Technical Skills</h1>
