@@ -9,9 +9,6 @@
   <a href="https://alexehouston.com">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/www.png" alt="Twitter" title="Twitter" width="35" height="35" />
   </a>
-  <a href="https://twitter.com/alexehouston">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="35" height="35" />
-  </a>
   <a href="https://www.linkedin.com/in/alexehouston">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="35" height="35" />
   </a>
