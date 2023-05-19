@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/jNkozgG.jpg" />
 </p>
 
-<h1 align=center>Hi, I'm Alex and I'm a software developer!</h1>
-
 <div align=center>
   <p>Connect with me:</p>
   <a href="https://aeh-portfolio.netlify.app/" target="_blank">
