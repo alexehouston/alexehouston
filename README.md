@@ -5,12 +5,12 @@
  ```javascript
 const alex = {
   name: 'alex houston',
-  pronouns: 'he' | 'him',
+  pronouns: 'he/him',
   location: 'houston, texas',
   current_job: 'web developer',
   code: ['Javascript', 'Python', 'C++', 'HTML', 'CSS', 'TypeScript', 'Java', 'SQL', 'PostgreSQL'],
   tools: ['React', 'Redux', 'Node', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
-}
+};
 ```
 
 <div align=center>
