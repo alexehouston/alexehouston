@@ -4,12 +4,12 @@
  
  ```javascript
 const alex = {
-  name: 'alex houston',
+  name: 'Alex Houston',
   pronouns: 'he/him',
-  location: 'houston, texas',
-  current_job: 'web developer',
-  code: ['Javascript', 'Python', 'C++', 'HTML', 'CSS', 'TypeScript', 'Java', 'SQL', 'PostgreSQL'],
-  tools: ['React', 'Redux', 'Node', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
+  location: 'Houston, Texas',
+  currentJob: 'Web Developer',
+  code: ['JavaScript', 'Python', 'C++', 'HTML', 'CSS', 'TypeScript', 'Java', 'SQL', 'PostgreSQL'],
+  tools: ['React', 'Redux', 'Node.js', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
 };
 ```
 
