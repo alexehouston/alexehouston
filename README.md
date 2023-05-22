@@ -12,24 +12,12 @@
   </a>
 </div>
 
-<h1 align=center>Technical Skills</h1>
-
-<div align=center>
-<img src="https://skillicons.dev/icons?i=js,py,html,css,nodejs,express,react,django,mongodb,postgres,aws,heroku,vscode,ps,ai" />
-</div>
-
-<br /><br />
-
-<div align=center>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexehouston&theme=chartreuse-dark&show_icons=true" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexehouston&layout=compact&theme=chartreuse-dark" />
-  </a>
- </div>
-
-[website]: https://alexehouston.com](https://alexehouston.github.io/portfolio/
-[twitter]: https://twitter.com/alexehouston
-[linkedin]: https://www.linkedin.com/in/alexehouston
+<br>
+ 
+ ```javascript
+const alex = {
+  pronouns: 'he' | 'him',
+  code: ['Javascript', 'Python', 'C++', 'HTML', 'CSS', 'TypeScript', 'Java', 'SQL', 'PostgreSQL'],
+  tools: ['React', 'Redux', 'Node', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
+}
+```
