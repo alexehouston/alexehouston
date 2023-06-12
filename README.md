@@ -12,13 +12,3 @@ const alex = {
   tools: ['React', 'Redux', 'Node.js', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
 };
 ```
-
-<div align=center>
-  <p>Connect with me:</p>
-  <a href="https://aeh-portfolio.netlify.app/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/www.png" alt="Website" title="Website" width="35" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexehouston" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="35" height="35" />
-  </a>
-</div>
