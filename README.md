@@ -3,7 +3,7 @@
 </p>
  
  ```javascript
-const alex = {
+const alexHouston = {
   name: 'Alex Houston',
   location: 'Houston, Texas',
   currentJob: 'Web Developer',
