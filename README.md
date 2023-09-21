@@ -3,11 +3,11 @@
 </p>
  
  ```javascript
-const alexHouston = {
+const alex = {
   name: 'Alex Houston',
   location: 'Houston, Texas',
   currentJob: 'Web Developer',
-  code: ['JavaScript', 'Python', 'C++', 'HTML', 'CSS', 'TypeScript', 'Java', 'SQL', 'PostgreSQL'],
-  tools: ['React', 'Redux', 'Node.js', 'Express', 'Django', 'MongoDB', 'AWS', 'Adobe Creative Cloud']
+  code: ['HTML', 'CSS', 'JavaScript', 'Python', 'C++', 'Java', 'SQL'],
+  tools: ['React', 'Node.js', 'Express', 'Django', 'MongoDB']
 };
 ```
