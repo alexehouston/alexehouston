@@ -11,5 +11,3 @@ const alex = {
   tools: ['React', 'Node.js', 'Express', 'Django', 'MongoDB']
 };
 ```
-
-hello world
