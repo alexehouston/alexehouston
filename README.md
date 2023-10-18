@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/fZoNKi0.png" />
+  <img src="https://media.licdn.com/dms/image/D5616AQGfWpRq7qLZyg/profile-displaybackgroundimage-shrink_350_1400/0/1697655043619?e=1703116800&v=beta&t=qs2lLU-cr8VGO1pX9yXEhpAutVSmfYZthshsUlKvRyM" />
 </p>
  
  ```javascript
