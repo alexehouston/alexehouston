@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/VVODeh1" />
+  <img src="https://i.imgur.com/YC5Xnq3.png" />
 </p>
  
  ```javascript
