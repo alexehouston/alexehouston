@@ -1,5 +1,5 @@
-<p align="center" style="border: 1px solid red; border-radius: 5px;">
-  <img src="https://i.imgur.com/t4KAnfX.png" />
+<p align="center">
+  <img style="border: 1px solid red; border-radius: 5px;" src="https://i.imgur.com/t4KAnfX.png" />
 </p>
  
  ```javascript
